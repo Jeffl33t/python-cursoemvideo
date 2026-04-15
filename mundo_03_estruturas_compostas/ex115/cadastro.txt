@@ -1,7 +1,0 @@
-jeff;32
-jose;15
-Maria;35
-rose;54
-Laura;65
-Darci;12
-Tati;23
