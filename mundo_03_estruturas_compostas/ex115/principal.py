@@ -17,6 +17,5 @@ while True:
         sleep(1)
 
     elif entrada == 3:
-        print('-' * 30)
-        print('<<<  PROGRAMA ENCERRADO  >>>')
+        cabecalho('<<<  PROGRAMA ENCERRADO  >>>')
         break

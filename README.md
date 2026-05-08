@@ -24,4 +24,4 @@ O projeto está organizado por "Mundos", conforme a didática do curso:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Jeffl33t/python-cursoemvideo
